@@ -1,1 +1,2 @@
 # Excel-Eurrope-Bike-Sales-Report
+I developed a comprehensive sales dashboard for a Europe Bike Sales Report. This dashboard included multiple pivot tables and charts, such as bar charts, line graphs, and pie charts, to effectively analyze and present sales data across different regions and periods. The dashboard enabled stakeholders to easily track sales performance, identify trends, and make data-driven decisions.
